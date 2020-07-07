@@ -1,4 +1,4 @@
-# Rubik-s-cube
+# Rubik's-cube
 OpenGL project C++
 Algorithm:
 
